@@ -1,0 +1,13 @@
+['occur',
+ 'offer',
+  'allow',
+   'inner',
+    'loose',
+     'tooth',
+      'apple',
+       'apply',
+        'upper',
+         'error',
+          'asset',
+           'essay',
+            'issue']

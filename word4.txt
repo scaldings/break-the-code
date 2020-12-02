@@ -1,0 +1,10 @@
+['assessment',
+ 'assistance',
+  'depression',
+   'difficulty',
+    'discipline',
+     'leadership',
+      'membership',
+       'percentage',
+        'perception',
+         'reflection']
